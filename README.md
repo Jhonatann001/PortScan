@@ -44,6 +44,6 @@ Inspirado por ferramentas como Nmap e outras ferramentas de escaneamento de rede
 Contribuição 🤝
 Contribuições são bem-vindas!
 
-Autor 👨‍💻: JHONATAN DE SOUZA 
+ 
 instagram : @jhonn.souzaa
 github : @Jhonatann001
