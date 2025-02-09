@@ -31,7 +31,9 @@ Aguarde o escaneamento. O resultado será exibido no terminal, destacando as por
 
 Exemplo de Saída
 Após executar o script, você verá algo assim:
-![image](https://github.com/user-attachments/assets/e833d921-263c-4fc2-babe-009302308194)
+
+![image](https://github.com/user-attachments/assets/5e6f0a18-a9f4-484e-a5a8-8d8eb67b0600)
+
 
 Opções  🚀
 Adiciona suporte a escaneamento UDP.
